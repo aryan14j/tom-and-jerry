@@ -16,7 +16,7 @@ function setup(){
     //create tom and jerry sprites here
     tom=createSprite(870,600);
     tom.addAnimation("sleeping",tomImg1);
-    tom.scale=0.2;to
+    tom.scale=0.2;
     jerry=createSprite(200,600);
     jerry.addAnimation("standing",jerryImg1)
     jerry.scale=0.15
